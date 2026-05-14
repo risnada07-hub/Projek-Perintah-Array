@@ -150,7 +150,7 @@ python --version
 
 ---
 
-## 💡 Konsep yang Dipelajari
+##  Konsep yang Dipelajari
 
 ### Program Array
 - Struktur data **List** di Python
@@ -169,7 +169,7 @@ python --version
 
 ---
 
-## 📊 Flowchart
+##  Flowchart
 
 Flowchart untuk kedua program tersedia di dalam dokumen README ini sebagai referensi visual alur kerja program.
 
