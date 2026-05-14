@@ -77,7 +77,7 @@ Index ke-4 : Anggur
 
 ---
 
-## 📌 Program 2 — Operasional Perhitungan
+##  Program 2 — Operasional Perhitungan
 
 ### Deskripsi
 Program ini adalah **kalkulator interaktif** yang menerima dua angka dari pengguna dan menampilkan hasil dari berbagai operasi matematika dan perbandingan.
@@ -137,7 +137,7 @@ Masukkan angka kedua    : 3
 
 ---
 
-## 🔧 Persyaratan Sistem
+##  Persyaratan Sistem
 
 - **Python versi:** 3.x (direkomendasikan Python 3.8 ke atas)
 - **Library tambahan:** Tidak ada (hanya built-in Python)
@@ -184,7 +184,7 @@ MULAI → Input 2 Angka → Hitung Dasar → [Cek b==0?] → Ya: Tampilkan Error
 
 ---
 
-## 👨‍💻 Informasi Tugas
+##  Informasi Tugas
 
 | | |
 |---|---|
@@ -195,4 +195,4 @@ MULAI → Input 2 Angka → Hitung Dasar → [Cek b==0?] → Ya: Tampilkan Error
 
 ---
 
-*Dibuat dengan Python 🐍*
+*Dibuat dengan Python *
